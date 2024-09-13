@@ -6,7 +6,7 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 
 <h2> Certificates: </h2>
 - [Google CyberSecurity](https://coursera.org/share/082b55692722455473f74bbf3fb640bb)
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
