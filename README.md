@@ -7,7 +7,7 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 <h3> Certificates: </h3>
 
 
-<h4👨‍💻 CyberSecurity Projects:</h4>
+<h4>👨‍💻 CyberSecurity Projects:</h4>
 
 Here are some ideas to get you started:
 
