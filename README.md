@@ -8,7 +8,7 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Malware Analysis                              | <a href="https://google.com">Malware Analysis</a>|
+| Malware Analysis                              | <a href="https://google.com">Malware Case Study</a>|
 | (Fill up)                                     | <a href="https://google.com">(Fill up)</a>|
 | (Fill up)                                     | <a href="https://google.com">(Fill up)</a>|
 | (Fill up)                                     | <a href="https://google.com">(Fill up)</a>|
