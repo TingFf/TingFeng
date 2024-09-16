@@ -8,7 +8,7 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Memory Forensic                               | <a href="https://github.com/TingFf/MalwareCaseStudy">Malware Case Study</a>|
+| Memory Forensic                               | <a href="https://github.com/TingFf/Memory-Forensic">Memory-Forensic</a>|
 | Reverse Engineering                           | <a href="https://github.com/TingFf/Reverse-Engineering">Reverse-Engineering</a>|
 | (Fill up)                                     | <a href="https://google.com">(Fill up)</a>|
 | (Fill up)                                     | <a href="https://google.com">(Fill up)</a>|
