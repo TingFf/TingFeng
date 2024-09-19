@@ -21,11 +21,8 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-- [How to attack TEA Algorithm - working on currently](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [How to attack TEA Algorithm - working on currently](https://github.com/TingFf/TEA-Algorithm)
+
 
 
 
