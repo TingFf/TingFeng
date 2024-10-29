@@ -22,7 +22,7 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - [How to attack TEA Algorithm - working on currently](https://github.com/TingFf/TEA-Algorithm)
-- [Practical Malware Analysis Notes and Lab done]([https://github.com/TingFf/Practical-Malware-Analysis-Notes-and-Lab])
+- [Practical Malware Analysis Notes and Lab done](https://github.com/TingFf/Practical-Malware-Analysis-Notes-and-Lab)
 
 
 
