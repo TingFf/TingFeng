@@ -1,5 +1,5 @@
 <h1> Hi, I'm Ting Feng! </h1>
-I am currently a undergradute at Nanyang Technological Uninversity finishing my studies till the end of 2024. Gotten interest in cybersecurity during my studies and looking to pursue a career in this area.  
+I'm a Nanyang Technological University computer engineering bachelor's degree graduate. During my education, I developed an interest in cybersecurity and am hoping to work in this field.  
 
 <h2> Objective: </h2>
 My journey in computer engineering has led me to develop a interest for cybersecurity, and I am now eager to transition into this field, specifically aiming to become a malware analyst
