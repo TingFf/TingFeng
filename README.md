@@ -2,7 +2,7 @@
 I'm a Nanyang Technological University computer engineering bachelor's degree graduate. During my education, I developed an interest in cybersecurity and am hoping to work in this field.  
 
 <h2> Objective: </h2>
-My journey in computer engineering has led me to develop a interest for cybersecurity, and I am now eager to transition into this field, specifically aiming to become a malware analyst
+My journey in computer engineering has led me to develop a interest for cybersecurity, and I am now eager to transition into this field, specifically aiming to become a malware analyst.
 
 <h2> Skills: </h2>
 
