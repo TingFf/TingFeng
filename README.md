@@ -26,6 +26,8 @@ My journey in computer engineering has led me to develop a interest for cybersec
 - [PicoCTF](https://github.com/TingFf/PicoCTF)
 - [HTB](https://github.com/TingFf/HTB)
 
+
 <h2>👨‍💻 Career/Job Experience:</h2>
-- [Red Alpha Specialist Training Programme]
+
+- [Red Alpha](https://github.com/TingFf/Red-Alpha-Specialist-Training-Programme)
 
