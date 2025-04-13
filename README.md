@@ -22,9 +22,9 @@ My journey in computer engineering has led me to develop a interest for cybersec
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - [How to attack TEA Algorithm](https://github.com/TingFf/TEA-Algorithm)
-- [Practical Malware Analysis Notes and Lab done](https://github.com/TingFf/Practical-Malware-Analysis-Notes-and-Lab)
+- [Practical Malware Analysis Notes and Lab done](https://github.com/TingFf/Practical-Malware-Analysis-Notes-and-Lab
 - [PicoCTF](https://github.com/TingFf/PicoCTF)
-- [HTB](https://github.com/TingFf/HTB)
+- [HTB](https://github.com/TingFf/HTB
 
 
 <h2>:office: Career/Job Experience:</h2>
