@@ -10,7 +10,7 @@ My journey in computer engineering has led me to develop a interest for cybersec
 |-----------------------------------------------|----------------------------|
 | Memory Forensic                               | <a href="https://github.com/TingFf/Memory-Forensic">Memory-Forensic</a>|
 | Reverse Engineering                           | <a href="https://github.com/TingFf/Reverse-Engineering">Reverse-Engineering</a>|
-| Security Onion                                | <a href="https://google.com">(Fill up)</a>|
+| Threat Research and Detection                 | <a href="https://github.com/TingFf/Security-Onion/blob/main/README.md)">Security Onion</a>|
 | (Fill up)                                     | <a href="https://google.com">(Fill up)</a>|
 | (Fill up)                                     | <a href="https://google.com">(Fill up)</a>|
 | (Fill up)                                     | <a href="https://google.com">(Fill up)</a>|
